@@ -4,15 +4,12 @@ const Header = () => {
   return (
     <header className="bg-background border-b sticky top-0 z-50">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
-        <div className="flex items-center gap-2">
-          <div className="flex items-center gap-1">
-            <span className="text-2xl font-black text-viral-dark">Viral Mattress</span>
-            <div className="bg-viral-blue rounded-full p-1">
-              <Check className="w-4 h-4 text-white" />
-            </div>
-            <Zap className="w-6 h-6" />
-          </div>
-          <span className="text-lg font-bold">Brand™</span>
+        <div className="flex items-center">
+          <img 
+            src="/lovable-uploads/2cf42c28-2b47-45c0-95ac-dc98a06f70d3.png"
+            alt="Viral Mattress Brand Logo"
+            className="h-12 w-auto"
+          />
         </div>
         
         <nav className="hidden md:flex items-center gap-6">
