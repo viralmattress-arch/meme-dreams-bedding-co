@@ -6,7 +6,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center">
           <img 
-            src="/lovable-uploads/2cf42c28-2b47-45c0-95ac-dc98a06f70d3.png"
+            src="/lovable-uploads/a37c783a-433d-477b-8c4c-b9054649a042.png"
             alt="Viral Mattress Brand Logo"
             className="h-36 w-auto"
           />
