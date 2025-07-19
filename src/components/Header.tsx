@@ -8,7 +8,7 @@ const Header = () => {
           <img 
             src="/lovable-uploads/2cf42c28-2b47-45c0-95ac-dc98a06f70d3.png"
             alt="Viral Mattress Brand Logo"
-            className="h-12 w-auto"
+            className="h-36 w-auto"
           />
         </div>
         
